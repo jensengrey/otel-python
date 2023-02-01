@@ -1,5 +1,11 @@
 # otel-python
 
+# documentation
+
+* https://opentelemetry.io/docs/instrumentation/python/
+
+# install
+
 ```
 git clone https://github.com/jensengrey/otel-python
 cd otel-python
