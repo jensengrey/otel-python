@@ -21,6 +21,8 @@ pip install -r requirements.txt
 python3 jaeger_tracing.py
 ```
 
+Look for a `my-hello-service` in the Jaeger UI (**hint there is a small bug in the python code you need fix**).
+
 <img width="1397" alt="jaeger-trace-python" src="https://user-images.githubusercontent.com/46599294/216155088-1fb47913-d63d-4e03-b67f-a8a681ddc024.png">
 
 # launch jaeger
