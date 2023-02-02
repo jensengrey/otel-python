@@ -4,6 +4,7 @@
 
 * https://opentelemetry.io/docs/instrumentation/python/
 * https://opentelemetry.io/docs/instrumentation/python/cookbook/
+* https://github.com/open-telemetry/opentelemetry-python/tree/stable/docs/examples
 
 # install
 
