@@ -24,7 +24,8 @@ python3 jaeger_tracing.py
 
 Look for a `my-hello-service` in the Jaeger UI (**hint there is a small bug in the python code you need fix**).
 
-<img width="1397" alt="jaeger-trace-python" src="https://user-images.githubusercontent.com/46599294/216155088-1fb47913-d63d-4e03-b67f-a8a681ddc024.png">
+<img width="1251" alt="jaeger-trace-python-5-trace" src="https://user-images.githubusercontent.com/46599294/216196445-6507360b-0ad0-434c-a677-2c28e57cf5e0.png">
+
 
 # launch jaeger
 
