@@ -3,6 +3,7 @@
 # documentation
 
 * https://opentelemetry.io/docs/instrumentation/python/
+* https://opentelemetry.io/docs/instrumentation/python/cookbook/
 
 # install
 
